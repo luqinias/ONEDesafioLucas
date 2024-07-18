@@ -1,0 +1,170 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+#content {
+  transform: scale(0.70);
+  transform-origin: 0 0;
+}
+
+body {
+  background-color: #E5E5E5;
+}
+
+#logo { 
+ width: 120px;
+ height: 48px;
+  margin: 24px;
+ margin-left: 40px;
+ margin-top: 40px;
+}
+
+#text {
+  width: 400px;
+  height: 800px;
+  float: left;
+  margin-left: 164px; 
+}
+
+#result {
+  width: 700px;
+  height: 944px;
+  margin-left: 1044px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  border-radius: 32px;
+  background-color: white;
+  padding-left: 100px;
+  padding-top: 40px;
+}
+
+.crip {
+  background-color: #cc6a0e;
+  border-radius: 24px;
+  border-style: 32px 67px;
+  float: left;
+  font-size: 16px;
+  width: 328px;
+  height: 67px;
+  color: white;
+  border-color: #cc6a0e;
+  font-weight: bold;
+} 
+
+textarea[placeholder="Digite o seu texto"] {
+  font-size: 32px;
+  font-family: 'Inter', sans-serif;
+  color: #cc6a0e;
+}
+
+
+.descrip {
+  background-color: white;
+  border-radius: 24px;
+  border-style: 32px 67px;
+  margin-left: 342px;
+  margin-top: -66px;
+  float: left;
+  font-size: 16px;
+  width: 328px;
+  height: 67px;
+  color:#cc6a0e;
+  border-color: #cc6a0e;
+  font-weight: bold;
+}
+
+.copy {
+ margin: 100px;
+ margin-left: 130px;
+ position: center;
+ border-radius: 15px;
+ border-style: 32px 67px;
+ margin-left: 24px;
+ float: left;
+ font-size: 16px;
+ width: 200px;
+ height: 40px;
+ background-color: white;
+ border-color: #cc6a0e;
+}
+
+#img1 {
+  margin-top: 10px;
+  width: 600px;
+  height: 600px;
+}
+
+.textarea is-info {
+  background-color: white;
+  border-color: #cc6a0e;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin-right: 68px;
+  color: black;
+}
+
+p {
+  font-size: 18px;
+  color: gray;
+  text-align: center;
+  margin-right: 68px;
+  margin-top: 24px;
+}
+
+#parag {
+  font-size: 16px;
+  text-align: left;
+  margin-left: 32px;
+  margin-top: -28px;
+
+}
+
+.ref {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-size: 18px;
+  margin-top: 100px;
+  position: absolute;
+  float: initial;
+  border-style:groove;
+  margin-left: -5px;
+  padding-right: 712px;
+  background-color: white;
+}
+
+
+#infor {
+  width: 32px;
+  height: 32px;
+  padding: 0%;
+}
+
+textarea {
+  background: none;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+ul {
+  padding-left: 144px;
+  padding-right: 124px;
+  list-style: none; 
+  display: flex;
+  gap: 1.45rem;
+
+}
+
+.image-footer {
+  width: 24px;
+}
+
+footer {
+  margin-top: 12px;
+  margin-left: 750px;
+  text-align: center;
+}
